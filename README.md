@@ -25,7 +25,7 @@
 
 If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
 
-*Remaded by [karma_#0281](https://discord.com/users/1055889359334813847)*
+*Remaded by [karma_#0281](https://discord.com/users/1055889359334813847) [Github](https://github.com/karma-onyxbot)*
 ```js
 module.exports = {
     app: {
