@@ -1,0 +1,74 @@
+{
+    "owner": {
+        "alert": "⛔",
+        "iconsettings": "⚙️",
+        "warn": "⚠️",
+        "abus": "⚠️"
+    },
+
+    "moderation": {
+        "loading": "❕"
+    },
+
+    "presence": {
+        "online": "🟢",
+        "idle": "🟡",
+        "dnd": "🔴",
+        "offline": "⚫",
+        "streaming": "🟣"
+    },
+
+    "musique": {
+        "no": "❌",
+        "yes": "✅"
+    },
+
+    "utilitaire": {
+        "vocales": "🔊",
+        "information": "ℹ️",
+        "coin": "🪙",
+        "id": "ℹ️",
+        "blackcrown": "👑",
+        "membres": "👥",
+        "boosts": "🔮",
+        "bots": "🤖",
+        "iconrole": "👤",
+        "salon": "#️⃣",
+        "emotes": "🎈",
+        "loading": "❕",
+        "link": "🔗",
+        "iconsettings": "⚙️"
+    },
+
+    "vocaux": {
+        "voc": "🔊"
+    },
+
+    "buyer": {
+        "loading": "ℹ️",
+        "valid": "ℹ️"
+    },
+
+    "antiraid": {
+        "on": "✅",
+        "off": "❎"
+    },
+    
+    "administration": {
+        "loading": "ℹ️",
+        "alerte": "🛑",
+        "ping": "📶",
+        "rainbowheart": "❣️",
+        "typing": "⌨️",
+        "devbadge": "💻"
+    },
+
+    "games": {
+        "no": "✖️",
+        "hack": "💻"
+    },
+    
+    "logs": {
+        "question": "❓"
+    }
+}
