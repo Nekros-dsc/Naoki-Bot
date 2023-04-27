@@ -47,5 +47,6 @@ module.exports = {
     }
 }
 ```
-
+---
+*The script was make by Funny & Betaa*
 ---
